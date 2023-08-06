@@ -27,12 +27,12 @@ set_exception_handler(function ($exception) {
 
 <head>
         <base href="">
-        <title>Keyauth - Register</title>
+        <title>Steml Auth - Register</title>
         <meta charset="utf-8" />
         <!-- Canonical SEO -->
         <link rel="canonical" href="https://keyauth.cc" />
 
-        <meta content="Secure your software against piracy, an issue causing $422 million in losses annually - Fair pricing & Features not seen in competitors" name="description" />
+        <meta content="Best key auth - Coded by KeyAuth" name="description" />
         <meta content="KeyAuth" name="author" />
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="keywords" content="KeyAuth, Cloud Authentication, Key Authentication,Authentication, API authentication,Security, Encryption authentication, Authenticated encryption, Cybersecurity, Developer, SaaS, Software Licensing, Licensing" />
@@ -41,26 +41,26 @@ set_exception_handler(function ($exception) {
         <meta property="og:site_name" content="KeyAuth | Secure your software from piracy." />
 
         <!-- Schema.org markup for Google+ -->
-        <meta itemprop="name" content="KeyAuth - Open Source Auth">
-        <meta itemprop="description" content="Secure your software against piracy, an issue causing $422 million in losses annually - Fair pricing & Features not seen in competitors">
+        <meta itemprop="name" content="Steml Auth - Open Source Auth">
+        <meta itemprop="description" content=""Best key auth - Coded by KeyAuth">
 
-        <meta itemprop="image" content="https://cdn.keyauth.cc/front/assets/img/favicon.png">
+        <meta itemprop="image" content="https://media.discordapp.net/attachments/1136274845718548541/1137819582686564352/Screenshot_20230730-192512_Gallery.jpg">
 
         <!-- Twitter Card data -->
         <meta name="twitter:card" content="product">
         <meta name="twitter:site" content="@keyauth">
         <meta name="twitter:title" content="Keyauth - Register">
 
-        <meta name="twitter:description" content="Secure your software against piracy, an issue causing $422 million in losses annually - Fair pricing & Features not seen in competitors">
+        <meta name="twitter:description" content="Secure your software against piracy, an issue causing $422 million in losses annually - Fair pricing & Features ">
         <meta name="twitter:creator" content="@keyauth">
-        <meta name="twitter:image" content="https://cdn.keyauth.cc/front/assets/img/favicon.png">
+        <meta name="twitter:image" content="https://media.discordapp.net/attachments/1136274845718548541/1137819582686564352/Screenshot_20230730-192512_Gallery.jpg">
 
 
         <!-- Open Graph data -->
-        <meta property="og:title" content="Keyauth - Register" />
+        <meta property="og:title" content="Steml Auth - Register" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="./" />
-        <link rel="shortcut icon" href="https://cdn.keyauth.cc/v2/assets/media/logos/favicon.ico" />
+        <link rel="shortcut icon" href="https://media.discordapp.net/attachments/1136274845718548541/1137819582686564352/Screenshot_20230730-192512_Gallery.jpg" />
 
         <!--begin::Fonts-->
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" />
